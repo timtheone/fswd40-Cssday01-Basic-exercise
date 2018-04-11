@@ -1,0 +1,12 @@
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  text-decoration: none;
+}
+
+nav {
+  text-align: center;
+  word-spacing: 50px;
+}

@@ -1,0 +1,19 @@
+@import url(article.css);
+@import url(footer.css);
+@import url(navigation.css);
+
+* {
+	margin: 0px auto;
+	font-family: 'Helvetica';
+}
+
+.right {
+	float: right;
+	width: 25%;
+}
+
+.left {
+	float: right;
+	width: 75%;
+}
+
